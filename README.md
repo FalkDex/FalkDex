@@ -20,7 +20,8 @@
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Google_Docs-4688F2?style=for-the-badge&logo=?&logoColor=white)
+![Google Docs](https://custom-icon-badges.demolab.com/badge/-Google_Docs-blue?style=for-the-badge&logoColor=white&logo=google-docs)
+
 
 #### Operating Systems
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -31,7 +32,7 @@
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
-
+![Anki](https://custom-icon-badges.demolab.com/badge/-Anki-blue?style=for-the-badge&logoColor=white&logo=ankiweb_icon)
 
 <!--
 **FalkDex/FalkDex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
